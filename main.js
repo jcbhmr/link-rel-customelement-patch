@@ -1,7 +1,7 @@
 /**
  * This triggers the linkRelCustomelementPatch() function ONCE on window.onload
- * and does NOT watch for any additional <link> elements. To trigger this again,
- * you can call the __linkRelCustomElementPatch() function (optionally with args).
+ * and does NOT watch for any additional <link> elements. ~~To trigger this again,
+ * you can call the __linkRelCustomElementPatch() function (optionally with args).~~
  */
 
 import linkRelCustomelementPatch from "./-.js"
