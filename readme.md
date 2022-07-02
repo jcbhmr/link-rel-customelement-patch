@@ -9,3 +9,6 @@ What I did:
 3. Used Terser online repl to compress to .min.js file (make sure module=false is set)
 
 See output in ./main.min.js
+
+Statically.io link: https://cdn.statically.io/gh/jcbhmr/link-rel-customelement-patch/trunk/main.min.js<br>
+Short link to that: https://t.ly/XUez
